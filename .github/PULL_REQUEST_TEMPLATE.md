@@ -1,14 +1,14 @@
 #### Institution/School Name 
-{Name Here}
+{Highschool of Biel-Sealand}
 
 #### Instiution/School Website
-{Website URL}
+{https://www.gbsl.ch/}
 
 #### Email Users
 
 *Please place an x between the square brackets if yes*
-- [ ] Students
-- [ ] Academic/Teaching Staff
+- [x] Students
+- [x] Academic/Teaching Staff
 - [ ] Other/Support Staff
 - [ ] Alumni
 
@@ -20,5 +20,5 @@
 - [ ] Graduate School
 - [ ] College (University) or Undergraduate School or equivalent
 - [ ] Community College or equivalent
-- [ ] High School or equivalent
+- [x] High School or equivalent
 - [ ] Elementary School or equivalent
